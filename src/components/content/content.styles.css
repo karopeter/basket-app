@@ -1,0 +1,11 @@
+.kala {
+    height: 28vh;
+}
+
+.story {
+  width: 30%;
+  transition: all 0.3s ease-in;
+  background-color: red;
+  padding: 1.5rem;
+  height: auto;
+}
